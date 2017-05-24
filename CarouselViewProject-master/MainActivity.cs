@@ -10,9 +10,9 @@ using Android.Support.V4.View;
 using Android.Support.V4.App;
 using Java.Lang;
 
-namespace CarouselViewProjectmaster
+namespace CoverFlow
 {
-	[Activity (Label = "CarouselViewProject-master", MainLauncher = true)]
+	[Activity (Label = "CoverFlow", MainLauncher = true)]
 	public class MainActivity : FragmentActivity
 	{
 		public static int LOOPS = 10; 

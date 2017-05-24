@@ -14,7 +14,7 @@ using Android.Support.V4.App;
 using Android.Support.V4.View;
 using Xamarin.NineOldAndroids.Views;
 
-namespace CarouselViewProjectmaster
+namespace CoverFlow
 {
     
     public class MyPagerAdapter : FragmentPagerAdapter, ViewPager.IOnPageChangeListener {

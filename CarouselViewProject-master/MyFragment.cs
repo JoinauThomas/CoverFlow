@@ -15,7 +15,7 @@ using System.IO;
 using Android.Graphics;
 using static Android.App.ActionBar;
 
-namespace CarouselViewProjectmaster
+namespace CoverFlow
 {			
 	public class MyFragment : Android.Support.V4.App.Fragment {
 

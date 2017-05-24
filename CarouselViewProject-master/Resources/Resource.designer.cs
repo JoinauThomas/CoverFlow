@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("CarouselViewProjectmaster.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("CoverFlow.Resource", IsApplication=true)]
 
-namespace CarouselViewProjectmaster
+namespace CoverFlow
 {
 	
 	

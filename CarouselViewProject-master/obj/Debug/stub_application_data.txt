@@ -1,2 +1,2 @@
 android.app.Application
-CarouselViewProject_master.CarouselViewProject_master
+CoverFlow.CoverFlow
